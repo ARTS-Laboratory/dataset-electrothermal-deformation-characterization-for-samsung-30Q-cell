@@ -1,1 +1,2 @@
-#Cell S001
+# Cell S001
+Discharge data: C/10, 1C, 2C, 3C, 4C
