@@ -3,7 +3,7 @@ Dataset for the Samsung 30Q battery for electro-thermal and deformation characte
 
 
 <p align="center">
-<img src="figures/single-LSTM-cell-use.PNG" alt="drawing" width="400"/> <br> 
+<img src="figures/S001/Deformation_S001_Comparison.png" alt="drawing" width="400"/> <br> 
 
 </p>
 <p align="center">
