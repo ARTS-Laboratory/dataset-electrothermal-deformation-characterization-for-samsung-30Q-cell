@@ -13,7 +13,36 @@ Cycle Life:
    - Proper care can extend its lifespan.
 
 ## Dataset
-The dataset consists of ...
+The dataset consists of three cells, each at:
+ - Room temperature for for discharge rates C/10, 1C, 2C, 3C, and 4C
+ - Room temperature, 30, 40, and 50 °C for 1C discharge and High Power Pulse Characterization
+ - The monitored data includes current, voltage, temperature, and Hoop strain with respect to time
+
+## Data Visualization
+The plotting folder contains codes in both MATLAB and python that can be used to plot data
+
+The following figures were created in MATLAB using the Rate_Compare.m file
+
+<p align="center">
+<img src="media/S001_voltage.png" alt="drawing" width="400"/>
+</p>
+<p align="center">
+The voltage per C-rate with respect to depth of discharge for cell S001
+</p>
+
+<p align="center">
+<img src="media/S003_temperature.png" alt="drawing" width="400"/>
+</p>
+<p align="center">
+The temperature per C-rate with respect to depth of discharge for cell S003
+</p>
+
+<p align="center">
+<img src="media/S002_strain.png" alt="drawing" width="400"/>
+</p>
+<p align="center">
+ - The strain per C-ragte with respect to depth of discharge for cell S002
+</p>
 
 ## Licensing and Citation
 
