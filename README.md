@@ -24,21 +24,21 @@ The plotting folder contains codes in both MATLAB and python that can be used to
 The following figures were created in MATLAB using the Rate_Compare.m file
 
 <p align="center">
-<img src="(https://github.com/ARTS-Laboratory/dataset-electrothermal-deformation-characterization-for-samsung-30Q-cell/blob/main/media/S001_Voltage.png)" alt="drawing" width="400"/>
+<img src=""media/S001_voltage.png"" alt="drawing" width="300"/>
 </p>
 <p align="center">
 The voltage per C-rate with respect to depth of discharge for cell S001
 </p>
 
 <p align="center">
-<img src="media/S003_temperature.png" alt="drawing" width="400"/>
+<img src="media/S003_temperature.png" alt="drawing" width="300"/>
 </p>
 <p align="center">
 The temperature per C-rate with respect to depth of discharge for cell S003
 </p>
 
 <p align="center">
-<img src="media/S002_strain.png" alt="drawing" width="400"/>
+<img src="media/S002_strain.png" alt="drawing" width="300"/>
 </p>
 <p align="center">
  - The strain per C-ragte with respect to depth of discharge for cell S002
