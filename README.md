@@ -31,7 +31,7 @@ The voltage per C-rate with respect to depth of discharge for cell S001
 </p>
 
 <p align="center">
-<img src="media/S003_temperature.png" alt="drawing" width="400"/>
+<img src="media/S003_Temperature.png" alt="drawing" width="400"/>
 </p>
 <p align="center">
 The temperature per C-rate with respect to depth of discharge for cell S003
