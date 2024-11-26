@@ -41,7 +41,7 @@ The temperature per C-rate with respect to depth of discharge for cell S003
 <img src="media/S002_Strain.png" alt="drawing" width="400"/>
 </p>
 <p align="center">
- - The strain per C-ragte with respect to depth of discharge for cell S002
+ - The strain per C-rate with respect to depth of discharge for cell S002
 </p>
 
 ## Licensing and Citation
