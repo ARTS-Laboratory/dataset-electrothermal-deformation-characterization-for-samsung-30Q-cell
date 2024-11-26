@@ -15,7 +15,7 @@ Cycle Life:
 ## Dataset
 The dataset consists of three cells, each at:
  - Room temperature for for discharge rates C/10, 1C, 2C, 3C, and 4C
- - Room temperature, 30, 40, and 50 °C for 1C discharge and High Power Pulse Characterization
+ - Room temperature, 30, 40, and 50 °C for 1C discharge and High Power Pulse Characterization (In Progress)
  - The monitored data includes current, voltage, temperature, and Hoop strain with respect to time
 
 ## Data Visualization
