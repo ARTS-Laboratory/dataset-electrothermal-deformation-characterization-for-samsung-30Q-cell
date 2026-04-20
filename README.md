@@ -59,6 +59,7 @@ Cite this as:
   title  = {Dataset Electrothermal Deformation Characterization for {S}amsung 30Q Cell},    
   groups = {ARTS-Lab},    
   url    = {https://github.com/ARTS-Laboratory/dataset-electrothermal-deformation-characterization-for-samsung-30Q-cell},   
+  notes  = {Accessed: Month dd, yyyy},   
 }
 
 <p align="center">
